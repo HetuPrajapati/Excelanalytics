@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const API_URL = "https://excelanalytics-backend-y5qy.onrender.com/api"
+const API_URL = "http://localhost:5000/api"
 
 // Create axios instance
 const api = axios.create({
