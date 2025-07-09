@@ -1,0 +1,8 @@
+ACC_NO,NAME,CITY,BALANCE,LOAN_TAKEN
+A001,Patel Jigar,Mehsana,5000,Yes
+A005,Soni Atul,Vadodara,100000,NO
+A001,Patel Jigar,Mehsana,5000,YES
+A003,Dave Hardik,Ahmedabad,75000,NO
+A004,soni hetal,Ahmedabad,100000,NO
+A001,Patel Ramesh,Mehsana,50000,YES
+A005,Soni Atul,Vadodara,100000,NO
